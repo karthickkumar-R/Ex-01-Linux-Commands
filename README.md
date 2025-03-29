@@ -1,5 +1,5 @@
 # Ex-01-Linux-Commands
-# Name: Karthikkumar R
+# Name: Karthickkumar R
 # Reg No: 212223040087
 ## Aim:
 
